@@ -1,0 +1,5 @@
+WR(0-4) - Working Registers (0-4)
+UR(0-4) - Utility Registers (5-9)
+RSR - Return-Stack Register (10)
+RTR - Return Register (11)
+RTS(0-3) - Return Stack Registers (12-15)

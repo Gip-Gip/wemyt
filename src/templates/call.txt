@@ -1,0 +1,9 @@
+ * weM/yt source file, see LICENSE when copying code
+ *
+ * foo - whatever foo does
+ *
+ * WR0 - how WR0 is used
+ * WR1 - ditto
+ * WR2 - ditto
+ * ...
+ * RTS3 - ditto
